@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class Sorting_ArrayNumbers {
+public class Boubble_Sort_Method {
 
 	public static void main(String[] args) {
 
