@@ -24,6 +24,7 @@ public class ArrayListTOArray {
 			
 			System.out.print(a+",");
 		}
+		
 
 	}
 
