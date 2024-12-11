@@ -19,6 +19,6 @@ public class Panagram {
 
 
 			System.out.println("not a panagram");
-		}else if()
+		}
 	}
 }

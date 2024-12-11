@@ -15,7 +15,6 @@ public class CountANumber {
 			
 		}
 		System.out.println(count + " Digits in a given number");
-
 	}
 
 }
