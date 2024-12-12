@@ -15,10 +15,6 @@ public class Panagram {
 		System.out.println(len);
 		System.out.println(length);
 		
-		if(len<26) {
-
-
-			System.out.println("not a panagram");
-		}
+		
 	}
 }
