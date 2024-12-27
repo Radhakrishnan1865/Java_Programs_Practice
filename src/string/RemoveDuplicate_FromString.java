@@ -32,7 +32,7 @@ public class RemoveDuplicate_FromString {
 		
 		
 		// method 02
-		
+	
 		String str="welcome to java selenium Automation";
 		str=str.replaceAll(" ","");
 	char[] c=str.toCharArray();
